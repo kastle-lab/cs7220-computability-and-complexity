@@ -2,7 +2,7 @@
 
 ## Layout
 * `course-information/` -- contains all administrative details (i.e., schedule and syllabus)
+* `learning/` -- contains an ordered directory of the learning modules this class will cover
 * `templates/` -- contains files which will be modified for assignments and exams
-* `videos/` -- contains metadata for recorded lectures
 
 ## Resources
