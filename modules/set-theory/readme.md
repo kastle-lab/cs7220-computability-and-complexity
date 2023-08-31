@@ -1,11 +1,14 @@
 # Set Theory
 ## Resources
-* [Set Theory Recording](https://wright.webex.com/wright/ldr.php?RCID=b99fc2a213328ac881d7ede4aeaaa1c0)
-  * Recording Password: Tvp4sqVu
+* Set Theory
+  * [Recording](https://wright.webex.com/wright/ldr.php?RCID=b99fc2a213328ac881d7ede4aeaaa1c0)
+    * Recording Password: Tvp4sqVu
   * [Note Slides](./notes-set-theory.pdf)
-* [Ordered Tuples Recording](https://wright.webex.com/wright/ldr.php?RCID=1b74fbce318a7c217f5d95c38b929d19)
-  * Recording Password: jJTmrZN9
+* Ordered Tuples 
+  * [Recording](https://wright.webex.com/wright/ldr.php?RCID=1b74fbce318a7c217f5d95c38b929d19)
+    * Recording Password: jJTmrZN9
   * [Note Slides](./notes-ordered-tuples.pdf)
+* [Script](./script-set-theory.pdf)
 
 ## Content
 ### Definitions
